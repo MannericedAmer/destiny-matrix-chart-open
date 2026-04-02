@@ -23,7 +23,7 @@ Destiny Matrix Chart Open is a powerful tool designed to calculate and visualize
 
 ## Author
 
-- **Tionna Simmons** - [MannericedAmer](https://github.com/MannericedAmer)
+- **Tionna Simmons** 
 
 ## License
 
